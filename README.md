@@ -19,12 +19,10 @@ Run the script using the following command:
 
 Bash
 ```bash
-python date_duration.py
+python3 Duration-Calculator.py 
 ```
 
 Notes
 
-- this Script Is Part OF UDACITY Data structure And algorithms Nano Degree
-
-[Udacity-Google-DSA
-][https://github.com/mu7ammad-3li/Udacity-Google-DSA/blob/main/problem-solving/README.md]
+- This Script Is Part OF [UDACITY Data Structure And Algorithms Nano-Degree
+](https://github.com/mu7ammad-3li/Udacity-Google-DSA/blob/main/problem-solving/README.md)
